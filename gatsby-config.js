@@ -4,20 +4,20 @@ module.exports = {
       resolve: "@matthieuauger/gatsby-theme-meetup",
       options: {
         meetupName: "CSS Paris",
-        meetupHomepageHeadline: "Super meetup",
+        meetupHomepageHeadline: "Bienvenue sur le meetup CSS Paris !",
         meetupDotComGroupUrlName: "CSS-Paris",
         displayVideosLink: false,
         talkProposalUrl: "#",
-        dateFormat: `dddd DD MMMM YYYY`,
+        dateFormat: `DD/MM/YYYY`,
         textBlocksPath: `${__dirname}/src/text-blocks`,
         translations: {
-          PROPOSE_A_TALK: "Propose a talk →",
+          PROPOSE_A_TALK: "Proposer un talk →",
           FETCH_VIDEOS: "See videos →",
-          LAST_MEETUPS: "Last meetups",
+          LAST_MEETUPS: "Derniers meetups",
           REGISTER_ON_MEETUP: "Register on Meetup →"
         },
         currentMeetupColor: "#EFCC74",
-        pastMeetupColors: ["#E6BB91", "#DDDEC4", "#F3DBD1"]
+        pastMeetupColors: ["white"]
       }
     }
   ]

@@ -1,21 +1,24 @@
 ---
-type: 'what-is-jamstack'
+type: "what-is-jamstack"
 ---
 
-## Qu'est-ce que la JAMstack ?
+## Un meetup stylé qui a la classe
 
-C'est du Javascript, des APIs, et du Markup.
+On parlera de tout ce qui est en rapport avec le CSS: les règles, les pièges, les bonnes pratiques, le futur, et même les pré/post-processeurs ! Et pourquoi pas un peu de design aussi ?
 
-Un mélange détonnant entre les sites statiques “à l'ancienne” et les technos récentes comme React et GraphQL qui permet de concevoir des sites super rapides, super rapidement.
+Rejoignez-nous pour:
 
-La JAMstack s'appuie sur des technos comme Gatsby, Contentful, Netlify et bien d'autres, et fait tourner des sites de tous types et de toutes tailles :
+- 🎨 Découvrir ou redécouvrir CSS
+- 👀 Voir et présenter de super talks/démos
+- 🍕 Manger des pizzas
 
-🛬 Des landing pages : [Formidable Labs](https://formidable.com)
+## Une idée de talk ?
 
-📚 De la documentation : [React](https://reactjs.org)
+Vous avez une expérience (bonne ou mauvaise) avec le CSS que vous souhaitez partager ? Vous avez trouvé une librairie, un framework ou un projet perso dont vous voulez parler ?
 
-💰 Du e-commerce : [Flamingo](https://www.shopflamingo.com/)
+N'attendez plus, proposez un talk !
 
-La performance et la SEO sont des problématiques traitées par défaut, ce qui vous laisse le temps de vous occuper de ce qui compte vraiment : votre site.
-
-Plus d'infos sur [JAMstack.org](https://jamstack.org) (et dans nos meetups bien sûr).
+<div class="call-to-action">
+  <a type="neutral" href="https://docs.google.com/forms/d/e/1FAIpQLSd9ZKtODhXzHKrE2z4AfwvmjI1EEA8LGTTQlOzoCYwUIZ36ww/viewform" class="Buttonstyle__StyledButton-ltfqg3-0 buJYZG">Proposer un talk →
+  </a>
+</div>
